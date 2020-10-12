@@ -2,6 +2,7 @@ ReSTful API
 
 Contributor
 - M. Ridwan Zalbina
+- M. Reyhan Zalbina
 
 ## Technology Stack
 - Node JS
