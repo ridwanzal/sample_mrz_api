@@ -8,7 +8,6 @@ Contributor
 - Node JS
 - Express
 - Maria/MySQL DBMS
-- Dependencies (ReSTful API)
 
 ## Initiation Stage
 19/08/2020
