@@ -1,3 +1,5 @@
+<a href="https://github.com/ridwanzal/sample_mrz_api/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ridwanzal/sample_mrz_api"></a>
+
 ReSTful API
 
 Contributor
