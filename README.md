@@ -17,6 +17,11 @@ Contributor
 
 ## Running the app
 1. Install all dependencies
----
-Run **npm install
+```sh
+npm install
+```
+2. Run the app
+```sh
+node app.js
+```
 
