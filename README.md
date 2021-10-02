@@ -1,7 +1,7 @@
 <a href="https://github.com/ridwanzal/sample_mrz_api/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ridwanzal/sample_mrz_api"></a>
 <img alt="node-current" src="https://img.shields.io/node/v/express">
 
-ReSTful API
+# ReSTful API
 
 Contributor
 - M. Ridwan Zalbina
